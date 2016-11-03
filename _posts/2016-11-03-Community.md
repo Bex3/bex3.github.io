@@ -2,7 +2,7 @@
 layout: post
 title: Community
 ---
-(https://www.dropbox.com/sh/sfjgqh2quzesauc/AACucq5Blhb6H18On3itZkDOa?dl=0&preview=Icon+on+home+screen.png "Community")
+({{ site.url }}/images/Icon on home screen.png)
 
 
 Community is an invite-only social networking application designed for community organizations such as churches, civic organizations, and local job-networking groups. This app was created with another Java developer and an iOS developer in three weeks as our final project. The Java back-end is a set of web services that connect a relational postgres database to the iOS client. 
