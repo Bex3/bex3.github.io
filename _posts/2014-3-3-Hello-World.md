@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Community
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Community is an invite-only social networking application designed for community organizations such as churches, civic organizations, and local job-networking groups. This app was created with another Java developer and an iOS developer in three weeks as our final project. The Java back-end is a set of web services that connect a relational postgres database to the iOS client. 
