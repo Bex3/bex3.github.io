@@ -17,6 +17,6 @@ Both the Java and iOS code can be accessed [here](https://github.com/TIYCodeZero
 ![Community Events](/images/Community-events.png)
 ![Community Create Event](/images/Create-event.png)
 ![Community Members](/images/Community-members.png)
-![Community Member Profile](/images/Icon-on-home-screen.png)
+![Community Member Profile](/images/Member-profile.png)
 ![Community Invite](/images/Invite.png)
 ![Community Invitation Email](/images/Invitation-email.png)
