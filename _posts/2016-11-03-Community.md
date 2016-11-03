@@ -2,7 +2,7 @@
 layout: post
 title: Community
 ---
-({{ https://www.dropbox.com/sh/sfjgqh2quzesauc/AACucq5Blhb6H18On3itZkDOa?dl=0&preview=Icon+on+home+screen.png }}/assets/screenshot.jpg)
+({{ https://www.dropbox.com/sh/sfjgqh2quzesauc/AACucq5Blhb6H18On3itZkDOa?dl=0&preview=Icon+on+home+screen.png }})
 
 pic here
 
