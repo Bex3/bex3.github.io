@@ -8,5 +8,5 @@ Web Chat Client is a chat application built using Spring that allows users to co
 
 The Java code can be accessed [here](https://github.com/Bex3/WebChatClientSpring).
 
-![Java Code](/images/Connectionhandler-webchat.png)
+![Java Code for Web Chat Client](/images/Connectionhandler-webchat.png)
 
