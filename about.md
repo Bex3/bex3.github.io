@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I transitioned from a customer service role to being a java developer to feed my desire to constantly learn and challenge myself. I am looking for a company that allows me to have varied projects so that I am constantly gaining new skills. I pride myself on my perserverance and versatility. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm an avid animal lover 
+Pets: 3 dogs and a cat
+Hobbies: photography, music, 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rebecca.m.bearden@gmail.com](mailto:rebecca.m.bearden@gmail.com)
