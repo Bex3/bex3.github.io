@@ -2,6 +2,7 @@
 layout: post
 title: Community
 ---
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
 
 pic here
 
