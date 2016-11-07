@@ -13,3 +13,4 @@ My wife and I have three dogs and one cat, so it's fair to say I have a love for
 ### Contact me
 
 [rebecca.m.bearden@gmail.com](mailto:rebecca.m.bearden@gmail.com)
+My resume can be accessed [here](https://drive.google.com/file/d/0B9MSBIRYYrFuaGZvdWN4OWVwcEE/view?usp=sharing).
